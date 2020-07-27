@@ -7,4 +7,4 @@ In this game, the character is a doctor who gathers various types of immunes cel
 
 There are 10 levels in total (with a tutorial level at the beginning of the game), and the game becomes harder as the level increases. When a player losts, he/she can see a ranking list of past players, and try again from level 1; when a player wins, there will be a summary of how long the player took to complete each level.
 
-Includes poster and trailer video as well. Unfortunately, the trailer video was too large to upload on github.
+Includes poster and trailer video as well. Unfortunately, the trailer video was too large to upload on github. You can download the video via BaiduYun at: https://pan.baidu.com/s/1bOsQmi-JU4MI80LqGTfKeg with password aydu
