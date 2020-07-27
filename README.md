@@ -10,5 +10,5 @@ There are 10 levels in total (with a tutorial level at the beginning of the game
 Includes a report, poster and trailer video as well. Unfortunately, the trailer video was too large to upload on github. You can download the video via BaiduYun at: https://pan.baidu.com/s/1bOsQmi-JU4MI80LqGTfKeg with password aydu
 
 About the files:
-covidhero.rar includes the entire project folder needed to run the game
+covidhero.rar includes the entire project folder needed to run the game;
 the corresponding report and poster are also uploaded on github
