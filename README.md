@@ -1,7 +1,7 @@
 # Covid-Hero
 Class project of Python Programming and Application, written by a group of 4 members.
 
-An original action game written in Python (uses Pygame Zero). This game pays respect to doctors who are fighting against the COVID-19 disease. 
+An original action game written in Python (uses Pygame Zero). This game pays tribute to doctors who are fighting against the COVID-19 disease. Although it is not a complex game, we hope it is interesting and enjoyable.
 
 In this game, the character is a doctor who gathers various types of immunes cells(we chose 4 types of common immunes cells from biology books, such as cell B and cell T) to create a vaccine. The doctor can move around the map(by pressing the keys WASD), as well as use 3 types of tools (mask: to ignore the damage of viruses in 3 secs, spray: to kill viruses in the vicinity, portal: to transfer to another location immediately) which randomly appear on the map to help complete the game. The doctor also needs to avoid the virus that are roaming around (when two viruses collide, they may mutate and become more dangerous).
 
