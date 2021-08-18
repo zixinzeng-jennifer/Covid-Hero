@@ -12,3 +12,7 @@ Includes a report, poster and trailer video as well. Unfortunately, the trailer 
 About the files:
 covidhero.rar includes the entire project folder needed to run the game;
 the corresponding report and poster are also uploaded on github
+
+
+Dependency:
+pgzero  (install by `pip install pgzero` in cmdline)
